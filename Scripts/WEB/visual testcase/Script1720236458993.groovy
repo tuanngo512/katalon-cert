@@ -34,4 +34,5 @@ WebUI.takeScreenshotAsCheckpoint('current_viewport_8')
 WebUI.takeScreenshotAsCheckpoint('current_viewport_9')
 WebUI.takeScreenshotAsCheckpoint('current_viewport_10')
 
+
 WebUI.closeBrowser()
